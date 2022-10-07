@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name: Tyler
+### First Name: Sharpe
+### GitHub Username: tysharpe
 
 ---
 #### General Workflow: 
